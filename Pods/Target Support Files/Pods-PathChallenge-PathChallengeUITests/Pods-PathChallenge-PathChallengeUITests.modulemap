@@ -1,0 +1,6 @@
+framework module Pods_PathChallenge_PathChallengeUITests {
+  umbrella header "Pods-PathChallenge-PathChallengeUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
